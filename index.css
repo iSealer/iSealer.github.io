@@ -62,7 +62,6 @@ ul#category > li {
 
     ul#category > li:first-child {
         margin-bottom: 40px;
-		
     }
 
 .seperate1 {
@@ -116,7 +115,9 @@ ul#category > li {
 
 
 .main-img {
+  
 	background:url(images/main.jpg);
+	
 }
 
 .right-img {
@@ -130,7 +131,6 @@ ul#category > li {
     height: 126px;
 	background:url(images/r1.jpg);
     margin-bottom: 10px;
-	background-repeat:no-repeat;
 }
 
 
@@ -138,7 +138,6 @@ ul#category > li {
     height: 126px;
 	background:url(images/r2.jpg);
     margin-bottom: 10px;
-	background-repeat:no-repeat;
 }
 
 
@@ -146,30 +145,24 @@ ul#category > li {
     height: 126px;
 	background:url(images/r3.jpg);
     margin-bottom: 10px;
-	background-repeat:no-repeat;
 }
 
 .bottom-img {
     height:200px;
-    display:inherit;
-	
+    display:block;
 }
 
 .bottom-img1 {
     background:url(images/b1.jpg);
-	background-repeat:no-repeat;
 }
 .bottom-img2 {
     background:url(images/b2.jpg);
-	background-repeat:no-repeat;
 }
 .bottom-img3 {
     background:url(images/b3.jpg);
-	background-repeat:no-repeat;
 }
 .bottom-img4 {
     background:url(images/b4.jpg);
-	background-repeat:no-repeat;
 }
 
 
